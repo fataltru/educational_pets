@@ -1,6 +1,6 @@
 # Автоматизация выполнения задач
 
-## ETL - Ежедневное заполнение БД метриками по срезам
+## [ETL - Ежедневное заполнение БД метриками по срезам](https://github.com/fataltru/educational_pets/blob/main/pets/kc/03_airflow/etl_metric_os_age_gender.py)
 
 ### Описание задачи и последовательность ее автоматизации
 
@@ -12,7 +12,7 @@
 
 - airflow, pandas, pandahouse
 
-## Автоматизация отправки отчетности о работе ленты в телеграм
+## [Автоматизация отправки отчетности о работе ленты в телеграм](https://github.com/fataltru/educational_pets/blob/main/pets/kc/03_airflow/feed_daily_report_tg.py)
 
 ### Описание задачи
 
@@ -31,7 +31,7 @@
 
 - airflow, pandas, pandahouse, matplotlib, seaborn, telegram
 
-## Автоматизация отправки отчетности о работе приложения в телеграм
+## [Автоматизация отправки отчетности о работе приложения в телеграм](https://github.com/fataltru/educational_pets/blob/main/pets/kc/03_airflow/app_daily_report_tg.py)
 
 ### Описание задачи
 
@@ -49,7 +49,7 @@
 
 - airflow, pandas, pandahouse, matplotlib, seaborn, telegram
 
-## Автоматизация системы оповещения о недопустимом отклонении метрик
+## [Автоматизация системы оповещения о недопустимом отклонении метрик](https://github.com/fataltru/educational_pets/blob/main/pets/kc/03_airflow/alert_main_metric.py)
 
 ### Описание задачи
 
